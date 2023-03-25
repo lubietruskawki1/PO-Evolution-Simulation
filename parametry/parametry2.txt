@@ -1,0 +1,15 @@
+ile_tur 309
+ile_rośnie_jedzenie 33
+pocz_ile_robów 66
+pocz_energia 20.2844
+ile_daje_jedzenie 85.8349
+kosz_tury 32.2458
+pr_powielenia 0.405774
+ułamek_energii_rodzica 5.86718
+limit_powielania 38.6269
+pr_usunięcia_instr 0.708029
+pr_dodania_instr 0.852657
+pr_zmiany_instr 0.101077
+co_ile_wypisz 31
+spis_instr lpiwj
+pocz_progr wpippilipjippj
